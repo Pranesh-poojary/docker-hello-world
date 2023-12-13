@@ -17,7 +17,7 @@ variables:
   target: $(build.artifactstagingdirectory)
   artifact: TrivyScan
   appName : 'Demowebapp11'
-  azureSubscription : 'ee896667-32f5-4db5-b1a0-23d8336dc862'
+  azureSubscription : 'Free Trial'
   tag: '$(Build.BuildId)'
 
   # Agent VM image name
